@@ -1,0 +1,1750 @@
+[
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_attendancepage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\attendancepage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_pdf_file.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\pdf_file.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_applyleave.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_applyleave.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_nav_switch.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_nav_switch.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_roboto_calendar_week_layout.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\roboto_calendar_week_layout.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_web_yellow.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_web_yellow.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_green_curve_border.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\green_curve_border.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_leave.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_leave.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_check_black.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_check_black.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_dashboard_bottom_sheet.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_dashboard_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_nav_subject.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_nav_subject.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_green_border.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\green_border.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\menu_options_menu.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_grey_outline.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\grey_outline.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_calender_time.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_calender_time.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_course_curriculum_lesson.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_course_curriculum_lesson.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_online_exam_result.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_online_exam_result.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\anim_slide_leftright.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\anim\\slide_leftright.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_eye_grey.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\eye_grey.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_login_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_img_login_background.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\img_login_background.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_notification_list.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_notification_list.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_onlineexam.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_onlineexam.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_add_black.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_add_black.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_clipboard_filled.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_clipboard_filled.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_roboto_calendar_picker_layout.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\roboto_calendar_picker_layout.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_settingpage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\settingpage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_student_profile_parents_new.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_student_profile_parents_new.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_shadowfile.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\shadowfile.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_edittext_stlye.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\edittext_stlye.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_lesson_topic_dialoug.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\lesson_topic_dialoug.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_cbse_examination.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_cbse_examination.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_online_exam_questions.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_online_exam_questions.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_listview.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_listview.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_badge_background.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\badge_background.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_fragment_studentdownload.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_fragment_studentdownload.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_circle_lightblue.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\circle_lightblue.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_downloadcenter.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_downloadcenter.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_rightarrow.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\rightarrow.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_access_time_black_24dp.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_access_time_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_online_quiz_result.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_online_quiz_result.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_lessonplan.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_lessonplan.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_cbse_subject_list.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\cbse_subject_list.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_hostel_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_hostel_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_downloads_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_downloads_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_examname_outline.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\examname_outline.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_fees.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_fees.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_documents_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_documents_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_commentlist.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\commentlist.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_dashboard_homework.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_dashboard_homework.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_content_attachment.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\content_attachment.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_nav_logout.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_nav_logout.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_subject_atten.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_subject_atten.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_events.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_events.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_chat.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_chat.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_open_pdf.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_open_pdf.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_timeline_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_timeline_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_cbse_timetable_adapter.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\cbse_timetable_adapter.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_button_text_color.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\button_text_color.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_exam_schedule_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_exam_schedule_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_personal_new.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_personal_new.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_library_book_issued.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_library_book_issued.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_placeholder_user.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\placeholder_user.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_room.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_room.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_presentation_sheet.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\presentation_sheet.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ring.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ring.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_attachment_detail_dialog.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\attachment_detail_dialog.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_homework_bottom_sheet.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_homework_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_arrow_left.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_arrow_left.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_about_school_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\about_school_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_bottom_img.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\bottom_img.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_transport_route.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_transport_route.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_behaviour.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_behaviour.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_relation.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_relation.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_students_processfees_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\students_processfees_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_corner2.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\corner2.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_file.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_file.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_style_button.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\style_button.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_demo2.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\demo2.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_hostel_bottom_sheet.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_hostel_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_yellow_curve_border.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\yellow_curve_border.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_add_assignment.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\add_assignment.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_quiz_questions.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\quiz_questions.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_library_book_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_library_book_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_dashboard_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_dashboard_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\font_poppins_regular.otf.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\font\\poppins_regular.otf"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_button_style_grey.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\button_style_grey.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_user.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_user.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_add_task_dialog.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\add_task_dialog.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_half_circle_left.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\half_circle_left.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_add_leave.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\add_leave.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_navigate_previous.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_navigate_previous.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_phone.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_nav_about.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_nav_about.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_pink_border.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\pink_border.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_back.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_back.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_nav_transport.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_nav_transport.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_course_performance.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_course_performance.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_class_subjectlist_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_class_subjectlist_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_grey_button.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\grey_button.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_eye_black.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\eye_black.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_syllabs_lesson.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_syllabs_lesson.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_baseline_receipt.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\baseline_receipt.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_arrow_right.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_arrow_right.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_profile_plus.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_profile_plus.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_students_fees_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\students_fees_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_profile_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_profile_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_online_exams.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_online_exams.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_login_bottom_sheet.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_login_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_visitor_book.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_visitor_book.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\anim_down_from_top.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\anim\\down_from_top.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_courseperformance_data.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\courseperformance_data.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_dashboard_fragment.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_dashboard_fragment.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\anim_slide_out.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\xml_provider_paths.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_onlinecourse.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_onlinecourse.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_plus_white.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_plus_white.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_liveclasses_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\liveclasses_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_currency_exchange.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\currency_exchange.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_lesson.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_lesson.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_attendance_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_attendance_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_syllabus_status.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_syllabus_status.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_corner.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\corner.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_default_female.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\default_female.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_notification_bottom_sheet.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_notification_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_online_course.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_online_course.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_report_card_exam_gparesult.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_report_card_exam_gparesult.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_green_button.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\green_button.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_new_dashboard.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_new_dashboard.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_briefcase.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_briefcase.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_check.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_check.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_radio_button.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\radio_button.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_button_style_accent.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\button_style_accent.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_liveclasspage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\liveclasspage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_exam_list.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_exam_list.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_app_icon.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_minus_black.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_minus_black.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\font_poppins_medium.otf.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\font\\poppins_medium.otf"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_rounded_square.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\rounded_square.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_cbsetimetable.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_cbsetimetable.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_parent_student_list.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_parent_student_list.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_fees_detail.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_fees_detail.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_visitors.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_visitors.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_examinationpage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\examinationpage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_email_filled.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_email_filled.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_navigate_next.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_navigate_next.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_bus.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_bus.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_documents.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_documents.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_dashboard_attendance.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_dashboard_attendance.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_nav_teachers.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_nav_teachers.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_student_download_assignment.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_student_download_assignment.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-5:/layout_activity_listview.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-6:/layout/activity_listview.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_transport.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_transport.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_timeline.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_timeline.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_info.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_info.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_empty_divider.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\empty_divider.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_syllabus_timetable_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_syllabus_timetable_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_choose_payment_mode.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\choose_payment_mode.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_nav_library.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_nav_library.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_cbse_subjecttimetable_list.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\cbse_subjecttimetable_list.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_transport_page.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\transport_page.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_hostel.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_hostel.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_down_arrow_blue.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_down_arrow_blue.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_examgreen_left_tabs.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\examgreen_left_tabs.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_test.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_test.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_nav_download.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_nav_download.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_bottom_navigation_background.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\bottom_navigation_background.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_description.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_description.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_add_alert.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_add_alert.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_class_timetable_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_class_timetable_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_upload_homework_new.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\upload_homework_new.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_nav_timeline.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_nav_timeline.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_teacher_activity_new.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_teacher_activity_new.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_student_classtimetable.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_student_classtimetable.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_sylllabuslist.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_sylllabuslist.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\anim_no_animation.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\anim\\no_animation.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_nav_header.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_qrcode_layout.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\qrcode_layout.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_half_circle_right.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\half_circle_right.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_subject_activity_new.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_subject_activity_new.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_homework_details_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_homework_details_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_no_data.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\no_data.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_examlist.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_examlist.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_documentpage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\documentpage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_library_book_issued_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_library_book_issued_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_feespage.jpeg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\feespage.jpeg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_teacher.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_teacher.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_red_border.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\red_border.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_notification.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_down_arrow.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_down_arrow.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_add_student_leave.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\add_student_leave.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_visitorbook.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_visitorbook.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_profile_new.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_profile_new.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_red_button.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\red_button.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_lessonplanpage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\lessonplanpage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_lessonplan.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_lessonplan.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_offline_payment.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_offline_payment.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_play_button.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\play_button.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_nav_footer.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\nav_footer.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_exam_result.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_exam_result.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_leavepage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\leavepage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_open_book.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_open_book.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_setting.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_drawer_selector.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\drawer_selector.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_dashboard_bottomsheet.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_dashboard_bottomsheet.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_offlinepayment.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_offlinepayment.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_uploadfile.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\uploadfile.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_wrong.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_wrong.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_examgreen_right_tabs.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\examgreen_right_tabs.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_syllabus_lesson.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_syllabus_lesson.xml"
+    },
+    {
+        "merged": "com.qdocs.smartschool.app-merged_res-5:/layout_fragment_list.xml.flat",
+        "source": "com.qdocs.smartschool.app-main-6:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_notice_board_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_notice_board_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_quiz_layout.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\quiz_layout.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_chat_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_chat_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_onlineexampage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\onlineexampage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_notification.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_notification.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_edit.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_img_background_main.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\img_background_main.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_subjectlistnew.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_subjectlistnew.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_rounded_rect.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\rounded_rect.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_badge_greenbackground.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\badge_greenbackground.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_assignmentpage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\assignmentpage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_report_card_exam_result.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_report_card_exam_result.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_logo_small.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\logo_small.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_onlineexam_questions.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_onlineexam_questions.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_subject.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_subject.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_choose_file.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\choose_file.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_liveclass.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_liveclass.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_play_icon.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_play_icon.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_rb_login_default_style.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\rb_login_default_style.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_edit_task_dialog.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\edit_task_dialog.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_apply_leave.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_apply_leave.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_dashboard_noticeboard.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_dashboard_noticeboard.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_students_subject_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\students_subject_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_content_upload_detail.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_content_upload_detail.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_behaviour_report.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_behaviour_report.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_course_review.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\course_review.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_dashboard_activity_new.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_dashboard_activity_new.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_lock_filled.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_lock_filled.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_start_lesson.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_start_lesson.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_add_rating_dialog.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\add_rating_dialog.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_notice.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_notice.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_splash_logo.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\splash_logo.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_online_logo.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\online_logo.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_circle_blue.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\circle_blue.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_file_save.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_file_save.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_add_leave_dialoug.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\add_leave_dialoug.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_question_wise_layout_new.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\question_wise_layout_new.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_daily_assignment.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_daily_assignment.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_file_download.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_file_download.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_syllabus.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_syllabus.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_courselist.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_courselist.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_reset.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_reset.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_examschedule_examlist_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_examschedule_examlist_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_radiobutton_black.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\radiobutton_black.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_lesson_topics.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_lesson_topics.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_gmeetliveclass.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_gmeetliveclass.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_delete.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_fullscreen_open.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_fullscreen_open.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_wrong_mark.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\wrong_mark.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_splash_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\splash_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_photo_camera.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_photo_camera.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_email.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_email.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_nav_hostel.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_nav_hostel.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_homeworkpage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\homeworkpage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_subject_detail.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_subject_detail.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_library.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_library.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_student_download_videos.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_student_download_videos.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_distance_icon.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\distance_icon.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_online_exam.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_online_exam.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_close.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_close.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_transport_routes_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_transport_routes_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_yellow_border.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\yellow_border.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_quiz_instruction.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\quiz_instruction.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_documents_certificate.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_documents_certificate.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_view.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_view.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_rightarrow.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_rightarrow.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_list_row.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\list_row.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_closed_book.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_closed_book.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_check_mark.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\check_mark.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_examlist.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_examlist.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_edit_assignment.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\edit_assignment.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_tasks_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_tasks_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_back_select.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\back_select.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_test_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\test_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_demo.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\demo.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_teacher.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_teacher.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_attach_file_black.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_attach_file_black.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_behaviour_comment.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_behaviour_comment.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_list.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_payment_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\payment_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_student_profile_parents.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_student_profile_parents.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_subject_detail_dialog.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\subject_detail_dialog.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_place_black.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_place_black.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_phone_filled.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_phone_filled.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_lesson_description.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\lesson_description.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_teacher_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_teacher_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_teacherreviewpage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\teacherreviewpage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_notification_logo_trans.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\notification_logo_trans.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_upload_file.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\upload_file.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_round_grey.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\round_grey.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_videocam.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_videocam.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_teacher_detail.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_teacher_detail.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_take_url_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\take_url_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_gmeet_live_classes.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_gmeet_live_classes.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_subtract_black.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_subtract_black.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_exam_schedule.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_exam_schedule.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\anim_up_from_bottom.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\anim\\up_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_videoplay_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\videoplay_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_start_lesson.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_start_lesson.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_assissment_layout.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\assissment_layout.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_eyehide.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\eyehide.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_url.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\url.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_user.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\user.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\anim_slide_rightleft.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\anim\\slide_rightleft.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\menu_base_activity_drawer.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\menu\\base_activity_drawer.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_processfees.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_processfees.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_homework_new.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_homework_new.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_module_selection.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_module_selection.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_red_curve_border.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\red_curve_border.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_style_button_background.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\style_button_background.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_location.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_location.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_noticepage.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\noticepage.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\menu_navigation.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\menu\\navigation.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\anim_slide_in.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_roboto_calendar_day_of_the_month_layout.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\roboto_calendar_day_of_the_month_layout.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_teacher_new.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_teacher_new.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_live_classes.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_live_classes.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_quiz.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_quiz.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_coursepage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\coursepage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_rb_login_selected_style.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\rb_login_selected_style.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_dashboard_calender.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_dashboard_calender.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_subject.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_subject.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_base_menu_items.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\base_menu_items.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_hostelpage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\hostelpage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_transport_route_bottom_sheet.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_transport_route_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_classtimetable.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_classtimetable.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_roboto_calendar_month_layout.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\roboto_calendar_month_layout.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_homework.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_homework.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_folder_shared.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_folder_shared.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_yellow_curve.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\yellow_curve.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_onlineexam_main.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_onlineexam_main.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_homework_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_homework_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_custom_tab.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\custom_tab.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_onlinequiz_result.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_onlinequiz_result.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_questions.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\questions.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_download_videolist.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_download_videolist.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_offlinepayment.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_offlinepayment.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_add_timeline.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\add_timeline.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_start_section.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_start_section.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_course_curriculum.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_course_curriculum.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_base_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\base_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\color_textview_color.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\color\\textview_color.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_start_lesson.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_start_lesson.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_report_card_exam_result_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_report_card_exam_result_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_cbse_exam_adapter.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\cbse_exam_adapter.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_syllabus.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_syllabus.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_green_outline.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\green_outline.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_main.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_syllabs_status.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_syllabs_status.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_timetablepage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\timetablepage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_file_upload.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_file_upload.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_timelinepage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\timelinepage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_grey_right_tabs.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\grey_right_tabs.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_checkbox_background.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\checkbox_background.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_demo.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\demo.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_transport_vehicle.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_transport_vehicle.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable-v24_blue_curve_border.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable-v24\\blue_curve_border.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_librarypage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\librarypage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_consolidate_detail_dialog.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\consolidate_detail_dialog.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_uploadfile.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\uploadfile.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_assignment.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_assignment.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_forgot_password_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\forgot_password_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_notification_logo.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\notification_logo.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_grey_curve_border.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\grey_curve_border.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_nav_reportcard.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_nav_reportcard.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_arrow_down.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_exam_schedule_exam_list.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_exam_schedule_exam_list.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_message.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\message.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_yellow_select.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\yellow_select.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_download_accent.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_download_accent.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_dashboard_pandingtask.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_dashboard_pandingtask.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_photo_library.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_photo_library.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_upload_homework.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\upload_homework.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_profile.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_profile.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_comment_icon.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\comment_icon.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_course_detail.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_course_detail.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_other_list.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_other_list.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_selected_file.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\selected_file.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_taskpage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\taskpage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_clock.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_clock.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_youtube_icon.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\youtube_icon.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_tasks.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_tasks.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable-v24_baseline_done.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable-v24\\baseline_done.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_cbseexaminationpage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\cbseexaminationpage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_nav_fees.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_nav_fees.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_key.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\key.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_language.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\language.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_report_card_exam_list_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_report_card_exam_list_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_default_image.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\default_image.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_calender_cross.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_calender_cross.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_edit_timeline.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\edit_timeline.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_up_arrow_blue.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_up_arrow_blue.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_report_card_exam_list.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_report_card_exam_list.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_consolidate_detail.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_consolidate_detail.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_fees_bottom_sheet.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_fees_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_downloadpage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\downloadpage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_calender.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_calender.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_add_leave.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\add_leave.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_library_book.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_library_book.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_daily_assignment_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\daily_assignment_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_syllabusstatuspage.jpg.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\syllabusstatuspage.jpg"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_homework_new.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_homework_new.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\font_poppins_semibold.otf.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\font\\poppins_semibold.otf"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_subject_type.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_subject_type.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_courseperformance.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\courseperformance.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_online_exam_question.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\online_exam_question.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_nav_examination.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_nav_examination.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\font_font.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\font\\font.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_hostel.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_hostel.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_add_course_rating.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\add_course_rating.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_arrow_up.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_arrow_up.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_nav_attendance.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_nav_attendance.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_fragment_student_profile.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\fragment_student_profile.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_cart_list_item.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\cart_list_item.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_assissment_type_layout.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\assissment_type_layout.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_grey_left_tabs.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\grey_left_tabs.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_back_tabs.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\back_tabs.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_student_reportcard_activity.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\student_reportcard_activity.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_whatsapp.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\whatsapp.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_activity_student_video_tutorial_play.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\activity_student_video_tutorial_play.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_adapter_student_hostel_detail.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\adapter_student_hostel_detail.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_money.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\money.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_ic_publisher.png.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\ic_publisher.png"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\drawable_nav_settings.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\drawable\\nav_settings.xml"
+    },
+    {
+        "merged": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-merged_res-5:\\layout_teacher_detail_dialog.xml.flat",
+        "source": "D:\\QDOCS\\daemon\\8.2\\com.qdocs.smartschool.app-main-6:\\layout\\teacher_detail_dialog.xml"
+    }
+]

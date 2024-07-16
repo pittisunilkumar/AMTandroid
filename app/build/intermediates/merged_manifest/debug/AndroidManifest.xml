@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cyberdetox.amaravathijuniorcollege"
+    android:versionCode="1"
+    android:versionName="4.0" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="34" />
+
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.CALL_PHONE"
+        android:required="false" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+    <uses-permission android:name="android.permission.READ_MEDIA_FILE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission
+        android:name="android.permission.CAMERA"
+        android:required="false" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="com.cyberdetox.amaravathijuniorcollege.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.cyberdetox.amaravathijuniorcollege.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:name="com.cyberdetox.amaravathijuniorcollege.utils.MyApp"
+        android:allowBackup="false"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:configChanges="orientation|screenSize"
+        android:debuggable="true"
+        android:exported="true"
+        android:extractNativeLibs="false"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@drawable/app_icon"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.CbseExaminationActivity"
+            android:exported="false" />
+        `
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.CbseTimeTableActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentOfflinePayment"
+            android:exported="false" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.BehaviourComment"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentVideoTutorialPlay"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentHomeworkNew"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.NewDashboard"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentCoursePerformance"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentUploadDocument"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentDailyAssignment"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentProcessingFees"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentCourseDetail"
+            android:configChanges="orientation|keyboardHidden|screenSize|layoutDirection"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentOnlineCourse"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentStartLessonActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|layoutDirection|uiMode"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentLiveClasses"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentOfflinePaymentList"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentGmeetLiveClasses"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentBehaviourReport"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.NotificationList"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentOnlineExamQuestionsNew"
+            android:configChanges="orientation|screenSize"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentOnlineExamResult"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentOnlineExam"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.AboutSchool"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentTimeline"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentAddTimeLine"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentEditTimeLine"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentDocuments"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.SplashActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.Login"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentProfileDetailsNew"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentAddAssignment"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentEditAssignment"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentUploadHomework"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.ForgotPassword"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.BaseActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentFees"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentNoticeBoard"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentExaminationList"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentReportCard_ExamListResult"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentSubjectList"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentTeachersList"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentTransportRoutes"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentDownloads"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentAttendance"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentReportCard_ExamList"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentExamSchedule_ExamList"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentExamSchedule"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentVisitorBook"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentHostel"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentLibraryBook"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentClassTimetable"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentSyllabusTimetable"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentSyllabusStatus"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentLibraryBookIssued"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentAppyLeave"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentAddLeave"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentEditLeave"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentSyllabus"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentOnlineQuizResult"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentSyllabuslesson"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentOnlineCourseQuiz"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.SettingActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.TakeUrl"
+            android:configChanges="orientation|screenSize"
+            android:exported="false" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.OpenPdf"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentTasks"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.StudentTasksEdit"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.Payment"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.CoursePayment"
+            android:exported="true" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.CourseVideoPlay"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.cyberdetox.amaravathijuniorcollege.students.LiveClasses"
+            android:exported="false" />
+
+        <service
+            android:name="com.cyberdetox.amaravathijuniorcollege.utils.MyFirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.cyberdetox.amaravathijuniorcollege.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+        <!--
+             FirebaseMessagingService performs security checks at runtime,
+             but set to not exported to explicitly avoid allowing another app to call it.
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="false" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.cyberdetox.amaravathijuniorcollege.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.cyberdetox.amaravathijuniorcollege.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>
